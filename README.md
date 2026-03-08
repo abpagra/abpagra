@@ -14,6 +14,7 @@ liderazgo y adaptabilidad para impulsar proyectos tecnológicos eficientes y
 escalables.
 
 ---
+>"Cualquier tonto puede escribir código que un ordenador entienda. Los buenos programadores escriben código que los humanos entienden." — Martin Fowler
 
 ### Back-End
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
