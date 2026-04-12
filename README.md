@@ -3,8 +3,7 @@
 # Abel Páramo
 
 ### Back-End / Full-Stack Developer
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=750&lines=Lo+importante+no+son+los+datos%2C+sino+el+an%C3%A1lisis+de+los+mismos)](https://git.io/typing-svg)
-  
+
 </div>
 
 Desarrollador Back-End y Full-Stack con sólida experiencia en el 
